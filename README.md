@@ -15,3 +15,4 @@ To further support business owners, Catalyst Scale integrates an **AI-powered fi
 
 By combining **network access, professional expertise, and AI-driven financial guidance**, Catalyst Scale empowers MSMEs to overcome traditional barriers to growth. The platform aims to make business support, financial clarity, and investment opportunities more accessible, helping small businesses move from survival to sustainable growth.
 
+Link to Figma Prototype: https://www.figma.com/design/ALpsfD9O2bOu6cyrQGnRW6/MSME?t=M3kfSxOsWFDLeZc2-1
