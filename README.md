@@ -3,7 +3,7 @@ Group Leader: Wong Jian Xiang <br>
 Members: Low You Han<br>
 Ryan Tan Yik Shen<br>
 Kit Hoong<br>
-Chia<br>
+Chia Teng Feng<br>
 
 ## Catalyst Scale
 
